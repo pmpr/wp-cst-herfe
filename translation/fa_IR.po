@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2022-12-02 12:25+0330\n"
+"POT-Creation-Date: 2022-12-03 14:47+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: PMPR <pmpr.ir@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -165,11 +165,11 @@ msgstr "گالری‌ها"
 msgid "Gallery post type"
 msgstr "نوع نوشته گالری"
 
-#: src/Pmpr/Custom/Herfe/CPT/EnglishArticle.php:27
+#: src/Pmpr/Custom/Herfe/CPT/EnglishArticle.php:28
 msgid "English Articles"
 msgstr "نوشته‌های انگلیسی"
 
-#: src/Pmpr/Custom/Herfe/CPT/EnglishArticle.php:28
+#: src/Pmpr/Custom/Herfe/CPT/EnglishArticle.php:29
 msgid "English Article"
 msgstr "نوشته انگلیسی"
 
@@ -204,57 +204,67 @@ msgid "There are currently no products in this %s"
 msgstr "در حال حاضر محصولی در این %s وجود ندارد"
 
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:360
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:493
 #: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:30
 msgid "Article Category"
-msgid_plural "Article Categories"
-msgstr[0] "دسته‌بندی مقالات"
-msgstr[1] "دسته‌بندی مقاله"
+msgstr "دسته‌بندی‌ مقاله"
 
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:400
 msgid "All"
 msgstr "همه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:414
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:413
 msgid "Buy a Printed Copy"
 msgstr "خرید نسخه چاپی"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:447
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:546
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:445
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:525
 msgid "Issue Number"
 msgstr "شماره"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:448
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:551
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:446
+#: src/Pmpr/Custom/Herfe/CTX/Medium.php:19
+msgid "Medium"
+msgstr "رسانه"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:447
 msgid "Related Product"
 msgstr "محصول مرتبط"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:449
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:561
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:448
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:496
 msgid "Products"
 msgstr "محصولات"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:450
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:556
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:449
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:488
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:535
 #: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:29
 msgid "Article Categories"
-msgstr "دسته‌بندی مقالات"
+msgstr "دسته‌بندی‌های مقاله"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:493
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:516
-#, php-format
-msgid "Include %s %s"
-msgstr "شامل %s %s"
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:479
+#: src/Pmpr/Custom/Herfe/CTX/Medium.php:18
+msgid "Mediums"
+msgstr "رسانه‌ها"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:516
-msgid "Product"
-msgid_plural "Products"
-msgstr[0] "محصول"
-msgstr[1] "محصول"
-
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:542
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:521
 msgid "Magazine Metadata"
 msgstr "متادیتا‌های فصل‌نامه"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:530
+#, php-format
+msgid "Physical Medium (%s)"
+msgstr "نسخه چاپی (%s)"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:530
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:540
+msgid "Product"
+msgstr "محصول"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:540
+#, php-format
+msgid "This Issue Articles (%s)"
+msgstr "مقالات این شماره (%s)"
 
 #: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:31
 msgid "Article Category for products"
@@ -271,14 +281,6 @@ msgstr "اگر می‌خواهید از عنوان پیش‌فرض استفاد�
 #: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:148
 msgid "Render Priority"
 msgstr "ترتیب نمایش"
-
-#: src/Pmpr/Custom/Herfe/CTX/Medium.php:18
-msgid "Mediums"
-msgstr "رسانه‌ها"
-
-#: src/Pmpr/Custom/Herfe/CTX/Medium.php:19
-msgid "Medium"
-msgstr "رسانه"
 
 #: src/Pmpr/Custom/Herfe/CTX/Medium.php:20
 msgid "Medium for magazines"
@@ -366,6 +368,9 @@ msgstr "شرح آرشیو"
 #: src/Pmpr/Custom/Herfe/Setting.php:96
 msgid "Physical Medium"
 msgstr "رسانه چاپی"
+
+#~ msgid "Include %s %s"
+#~ msgstr "شامل %s %s"
 
 #~ msgid "%s Contact Information"
 #~ msgstr "اطلاعات تماس %s"
