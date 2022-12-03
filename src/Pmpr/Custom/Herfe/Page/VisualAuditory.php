@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             638b56c9d9574             |
+    |             638bbaa0d7dee             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Herfe\Page; class VisualAuditory extends AbstractVisualAuditory { public function __construct() { $this->slug = self::uuseyckuwmiouskw; $this->title = __("\x56\151\163\x75\x61\154\x20\x26\x20\101\165\x64\x69\164\x6f\162\171", PR__CST__HERFE); parent::__construct(); } }
+ namespace Pmpr\Custom\Herfe\Page; class VisualAuditory extends AbstractVisualAuditory { public function __construct() { $this->slug = self::uuseyckuwmiouskw; $this->title = __("\126\151\x73\x75\141\154\x20\x26\40\x41\165\144\151\x74\157\x72\171", PR__CST__HERFE); parent::__construct(); } }
