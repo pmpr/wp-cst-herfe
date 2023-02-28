@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             63f69490ef776             |
+    |             63fe35b1baeff             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Herfe\Advertise; use Pmpr\Common\Foundation\Manipulate\Cover\ManipulateMenu; use Pmpr\Common\Foundation\Interfaces\IconInterface; use Pmpr\Custom\Herfe\Advertise\CPT\CPT; class Advertise extends Common { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function wigskegsqequoeks() { $this->qcsmikeggeemccuu("\x61\x64\155\x69\156\137\155\x65\156\165", [$this, "\x65\165\x71\x67\x77\x69\163\x63\167\147\161\x6b\161\153\145\x63"], 11); } public function euqgwiscwgqkqkec() { ManipulateMenu::aemwscceysomkuea([self::gqmskcacocowcwaw => "\144\x61\x73\150\x69\x63\157\156\x73\55\x6d\145\147\141\x70\x68\x6f\x6e\x65", self::wuowaiyouwecckaw => self::cqkewmmoacqamyce, self::qsegwakiwaiyimyy => __("\x41\x64\166\145\x72\x74\x69\163\145", PR__CST__HERFE)]); } public function iemaakgqgqosiecm() { CPT::symcgieuakksimmu(); } }
+ namespace Pmpr\Custom\Herfe\Advertise; use Pmpr\Custom\Herfe\Advertise\CPT\CPT; class Advertise extends Common { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function wigskegsqequoeks() { $this->qcsmikeggeemccuu("\x61\x64\x6d\151\156\x5f\x6d\x65\156\x75", [$this, "\x65\x75\x71\147\x77\x69\x73\x63\x77\147\x71\153\x71\x6b\145\x63"], 11); } public function euqgwiscwgqkqkec() { $this->caokeucsksukesyo()->ogciwyoqgciosgcw()->aemwscceysomkuea([self::gqmskcacocowcwaw => "\144\141\x73\150\151\x63\x6f\x6e\163\55\x6d\145\x67\141\160\x68\x6f\x6e\x65", self::wuowaiyouwecckaw => self::cqkewmmoacqamyce, self::qsegwakiwaiyimyy => __("\101\144\x76\145\x72\x74\x69\x73\145", PR__CST__HERFE)]); } public function iemaakgqgqosiecm() { CPT::symcgieuakksimmu(); } }
