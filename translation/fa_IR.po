@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2023-02-22 21:48+0330\n"
+"POT-Creation-Date: 2023-04-12 10:15+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -25,144 +25,144 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-3: asset\n"
 "X-Poedit-SearchPathExcluded-4: build\n"
 
-#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:31
+#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:29
 msgid "Advertise"
 msgstr "تبلیغ"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:22
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:20
 msgid "Advertisers"
 msgstr "تبلیغ‌ دهندگان"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:23
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:103
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:78
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:117
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:21
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:100
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:74
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:113
 msgid "Advertiser"
 msgstr "تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:24
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:22
 msgid "Advertiser post type"
 msgstr "نوع نوشته تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:72
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:70
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:70
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:66
 msgid "Advertiser Metadata"
 msgstr "متادیتا‌های تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:76
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:82
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:74
-#: src/Pmpr/Custom/Herfe/Setting.php:49
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:74
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:79
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:70
+#: src/Pmpr/Custom/Herfe/Setting.php:104
 msgid "General"
 msgstr "عمومی"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:48
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:45
 #, php-format
 msgid "More Information About %s"
 msgstr "اطلاعات بیشتر درباره %s"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:49
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:46
 #, php-format
 msgid "%s's Social Accounts"
 msgstr "شبکه‌های اجتماعی %s"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:50
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:47
 #, php-format
 msgid "%s's Information"
 msgstr "اطلاعات %s"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:65
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:62
 msgid "Items"
 msgstr "آیتم‌ها‌"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:69
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:66
 msgid "Title"
 msgstr "عنوان"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:74
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:71
 msgid "Icon"
 msgstr "آیکون"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:86
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:83
 msgid "Contact Information"
 msgstr "اطلاعات تماس"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:92
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:89
 msgid "Type"
 msgstr "نوع"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:94
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:91
 msgid "Link"
 msgstr "پیوند"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:95
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:92
 #: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:137
 msgid "Phone"
 msgstr "تلفن"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:96
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:93
 msgid "Email"
 msgstr "ایمیل"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:97
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:94
 msgid "Hours"
 msgstr "ساعات کاری"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:98
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:95
 msgid "Location"
 msgstr "مکان"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:104
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:101
 msgid "Value"
 msgstr "مقدار"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:117
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:114
 msgid "Social Accounts"
 msgstr "شبکه‌های اجتماعی"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:123
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:120
 msgid "Url"
 msgstr "پیوند"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:137
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:134
 msgid "Logo"
 msgstr "لوگو"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:142
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:139
 msgid "Address"
 msgstr "آدرس"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:146
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:143
 msgid "Map Location Url"
 msgstr "لینک موقعیت مکانی"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:25
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:22
 msgid "Events"
 msgstr "رویداد‌ها"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:26
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:23
 msgid "Event"
 msgstr "رویداد"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:27
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:24
 msgid "Event post type"
 msgstr "نوع نوشته رویداد"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:78
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:75
 msgid "Event Metadata"
 msgstr "متادیتا‌های رویداد"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:86
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:104
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:28
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:83
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:101
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:23
 msgid "Gallery"
 msgstr "گالری"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:27
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:22
 msgid "Galleries"
 msgstr "گالری‌ها"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:29
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:24
 msgid "Gallery post type"
 msgstr "نوع نوشته گالری"
 
@@ -174,73 +174,73 @@ msgstr "نوشته‌های انگلیسی"
 msgid "English Article"
 msgstr "نوشته انگلیسی"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:41
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:28
 msgid "Magazines"
 msgstr "فصلنامه‌ها"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:42
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:377
-#: src/Pmpr/Custom/Herfe/Setting.php:44
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:29
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:371
+#: src/Pmpr/Custom/Herfe/Setting.php:99
 msgid "Magazine"
 msgstr "فصلنامه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:129
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:116
 msgid "Description"
 msgstr "شرح"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:194
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:181
 msgid "List is empty."
 msgstr "لیست خالی است."
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:269
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:257
 #, php-format
 msgid "Issue number %s already used for %s, please use another number."
 msgstr ""
 "شماره %s در حال حاضر برای %s استفاده شده است، لطفا شماره دیگری را برگزینید."
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:377
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:371
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:383
 #, php-format
 msgid "There are currently no products in this %s"
 msgstr "در حال حاضر محصولی در این %s وجود ندارد"
 
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:383
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:30
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:26
 msgid "Article Category"
 msgstr "دسته‌بندی‌ مقاله"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:421
-#: src/Pmpr/Custom/Herfe/Page/AbstractVisualAuditory.php:33
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:420
+#: src/Pmpr/Custom/Herfe/Page/AbstractVisualAuditory.php:28
 msgid "All"
 msgstr "همه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:436
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:433
 msgid "Buy a Printed Copy"
 msgstr "خرید نسخه چاپی"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:468
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:465
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:533
 msgid "Issue Number"
 msgstr "شماره"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:469
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:466
 #: src/Pmpr/Custom/Herfe/CTX/Medium.php:19
 msgid "Medium"
 msgstr "رسانه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:470
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:467
 msgid "Related Product"
 msgstr "محصول مرتبط"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:471
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:468
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:519
 msgid "Products"
 msgstr "محصولات"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:472
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:469
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:511
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:543
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:29
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:25
 msgid "Article Categories"
 msgstr "دسته‌بندی‌های مقاله"
 
@@ -268,19 +268,19 @@ msgstr "محصول"
 msgid "This Issue Articles (%s)"
 msgstr "مقالات این شماره (%s)"
 
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:31
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:27
 msgid "Article Category for products"
 msgstr "دسته‌بندی مقاله برای محصولات"
 
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:142
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:141
 msgid "Frontend Title"
 msgstr "عنوان نمایشی"
 
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:143
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:142
 msgid "Leave empty if you want use default title."
 msgstr "اگر می‌خواهید از عنوان پیش‌فرض استفاده شود، این فیلد را خالی رها کنید."
 
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:148
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:147
 msgid "Render Priority"
 msgstr "ترتیب نمایش"
 
@@ -288,12 +288,17 @@ msgstr "ترتیب نمایش"
 msgid "Medium for magazines"
 msgstr "رسانه فصلنامه‌ها"
 
+#: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:30
+#: src/Pmpr/Custom/Herfe/Setting.php:81
+msgid "View in Hashure"
+msgstr "مشاهده در هاشور"
+
 #: src/Pmpr/Custom/Herfe/Herfe.php:25
 msgid "Herfe Custom"
 msgstr "کد سفارشی حرفه هنرمند"
 
 #: src/Pmpr/Custom/Herfe/Page/Auditory.php:23
-#: src/Pmpr/Custom/Herfe/Product.php:42
+#: src/Pmpr/Custom/Herfe/Product.php:43
 msgid "Auditory"
 msgstr "شنیداری"
 
@@ -301,86 +306,158 @@ msgstr "شنیداری"
 msgid "Latest Magazine"
 msgstr "آخرین فصلنامه‌"
 
-#: src/Pmpr/Custom/Herfe/Page/Visual.php:23 src/Pmpr/Custom/Herfe/Product.php:41
+#: src/Pmpr/Custom/Herfe/Page/Visual.php:23 src/Pmpr/Custom/Herfe/Product.php:42
 msgid "Visual"
 msgstr "دیداری"
 
 #: src/Pmpr/Custom/Herfe/Page/VisualAuditory.php:22
-#: src/Pmpr/Custom/Herfe/Product.php:34
+#: src/Pmpr/Custom/Herfe/Product.php:36
 msgid "Visual & Auditory"
 msgstr "دیداری شنیداری"
 
-#: src/Pmpr/Custom/Herfe/Product.php:38
+#: src/Pmpr/Custom/Herfe/Product.php:39
 msgid "Status"
 msgstr "وضعیت"
 
-#: src/Pmpr/Custom/Herfe/Product.php:40
+#: src/Pmpr/Custom/Herfe/Product.php:41
 msgid "None"
 msgstr "هیچکدام"
 
-#: src/Pmpr/Custom/Herfe/Product.php:72
+#: src/Pmpr/Custom/Herfe/Product.php:49
+msgid "Hashure Product ID"
+msgstr "شناسه محصول در هاشور"
+
+#: src/Pmpr/Custom/Herfe/Product.php:79
 msgid "Tag:"
 msgid_plural "Tags:"
 msgstr[0] "برچسب‌ها:"
 msgstr[1] "برچسب:"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:36
+#: src/Pmpr/Custom/Herfe/Setting.php:43
 msgid "Herfe Setting"
 msgstr "تنظیمات سفارشی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:46
+#: src/Pmpr/Custom/Herfe/Setting.php:53
+msgid "Hashure"
+msgstr "هاشور"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:55
+msgid "Hashure Configuration"
+msgstr "پیکربندی هاشور"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:58
+msgid "Authentication"
+msgstr "احراز هویت"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:62
+msgid "Username"
+msgstr "نام کاربری"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:66
+msgid "Password"
+msgstr "گذرواژه"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:71
+msgid "Hashure Products"
+msgstr "محصولات هاشوری"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:75
+msgid "Message"
+msgstr "پیام"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:76
+msgid ""
+"This message show on top of hashure products single, for users that has not "
+"access to hashure videos."
+msgstr ""
+"این پیام در بالای محصولات هاشوری، به کاربرانی که دسترسی لارم برای مشاهده "
+"ویدیو‌ها را ندارند، نمایش داده می‌شود."
+
+#: src/Pmpr/Custom/Herfe/Setting.php:80
+msgid "Button Text"
+msgstr "متن دکمه"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:85
+msgid "Button Behavior"
+msgstr "رفتار دکمه"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:86
+msgid "Open in Current Tab"
+msgstr "باز کردن در زبانه جاری"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:87
+msgid "Open New Tab"
+msgstr "باز کردن در زبانه جدید"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:91
+msgid "Link to"
+msgstr "لینک به"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:92
+msgid "Play Movie"
+msgstr "پخش فیلم"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:93
+msgid "Movie Page"
+msgstr "صفحه فیلم"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:101
 msgid "Magazine Configuration"
 msgstr "پیکربندی فصلنامه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:53
+#: src/Pmpr/Custom/Herfe/Setting.php:108
 msgid "Avoid Duplicate Data Entry"
 msgstr "پیشگیری از داده تکراری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:54
+#: src/Pmpr/Custom/Herfe/Setting.php:109
 msgid ""
 "Check this item. if you want avoid duplicate issue number and article "
 "category assignment."
 msgstr ""
 "اگر می‌خواهید مانع ورود شماره و دسته‌بندی تکراری شوید، این گزینه را فعال کنید."
 
-#: src/Pmpr/Custom/Herfe/Setting.php:57
-msgid "Pagination Limit"
-msgstr "تعداد آیتم صفحه‌بندی"
+#: src/Pmpr/Custom/Herfe/Setting.php:114
+msgid "Pagination"
+msgstr "صفحه‌بندی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:61
-msgid "Mobile Pagination Limit"
-msgstr "تعداد آیتم صفحه‌بندی موبایل"
+#: src/Pmpr/Custom/Herfe/Setting.php:118
+msgid "Desktop Limit"
+msgstr "دسکتاپ"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:65
-msgid "Products Pagination Limit"
-msgstr "محدودیت صفحه بندی محصولات"
+#: src/Pmpr/Custom/Herfe/Setting.php:123
+msgid "Mobile Limit"
+msgstr "موبایل"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:69
-msgid "Single Empty Message"
-msgstr "پیغام خالی بودن سینگل"
+#: src/Pmpr/Custom/Herfe/Setting.php:128
+msgid "Products  Limit"
+msgstr "محصولات"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:72
-msgid "Category Empty Message"
-msgstr "پیغام خالی بودن دسته‌بندی"
+#: src/Pmpr/Custom/Herfe/Setting.php:134
+msgid "Messages"
+msgstr "پیام‌ها"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:76
+#: src/Pmpr/Custom/Herfe/Setting.php:138
+msgid "Empty Single"
+msgstr "پیام خالی سینگل"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:142
+msgid "Empty Category"
+msgstr "پیام دسته‌بندی خالی"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:147
 msgid "Archive"
 msgstr "آرشیو"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:80
-msgid "Archive Tab Title"
-msgstr "عنوان تب آرشیو"
-
-#: src/Pmpr/Custom/Herfe/Setting.php:83
+#: src/Pmpr/Custom/Herfe/Setting.php:151
 msgid "Physical Medium"
 msgstr "رسانه چاپی"
 
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:69
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:64
 #, php-format
 msgid "Field %s is required!"
 msgstr "فلید %s ضروری است!"
 
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:80
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:75
 #, php-format
 msgid "Please enter at least %s characters for %s."
 msgstr "لطفا حداقل %s کاراکتر برای فیلد %s وارد کنید."
@@ -396,6 +473,36 @@ msgstr "نام خانوادگی"
 #: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:144
 msgid "National Code"
 msgstr "کد ملی"
+
+#~ msgid "Play"
+#~ msgstr "پخش"
+
+#~ msgid "Product Category"
+#~ msgstr "دسته محصول"
+
+#~ msgid "Hashure Metadata"
+#~ msgstr "متادیتا‌های هاشور"
+
+#~ msgid "Product ID"
+#~ msgstr "شناسه محصول"
+
+#~ msgid "Product Button Link"
+#~ msgstr "لینک دکمه محصول"
+
+#~ msgid "Text"
+#~ msgstr "متن"
+
+#~ msgid "Default"
+#~ msgstr "پیشفرض"
+
+#~ msgid "Single Empty Message"
+#~ msgstr "پیغام خالی بودن سینگل"
+
+#~ msgid "Category Empty Message"
+#~ msgstr "پیغام خالی بودن دسته‌بندی"
+
+#~ msgid "Archive Tab Title"
+#~ msgstr "عنوان تب آرشیو"
 
 #~ msgid "Archive Description"
 #~ msgstr "شرح آرشیو"
@@ -653,14 +760,8 @@ msgstr "کد ملی"
 #~ msgid "Who is"
 #~ msgstr "کیست"
 
-#~ msgid "User"
-#~ msgstr "کاربر"
-
 #~ msgid "Select user for show experience date in shortcode."
 #~ msgstr "برای نمایش میزان تجربه کاربر مورد نظر را انتخاب کنید."
-
-#~ msgid "Text"
-#~ msgstr "متن"
 
 #~ msgid "%s Years"
 #~ msgstr "%s سال"
