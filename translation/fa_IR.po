@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2023-04-12 10:15+0330\n"
+"POT-Creation-Date: 2023-04-15 10:58+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -52,7 +52,7 @@ msgstr "متادیتا‌های تبلیغ دهنده"
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:74
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:79
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:70
-#: src/Pmpr/Custom/Herfe/Setting.php:104
+#: src/Pmpr/Custom/Herfe/Setting.php:105
 msgid "General"
 msgstr "عمومی"
 
@@ -180,7 +180,7 @@ msgstr "فصلنامه‌ها"
 
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:29
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:371
-#: src/Pmpr/Custom/Herfe/Setting.php:99
+#: src/Pmpr/Custom/Herfe/Setting.php:100
 msgid "Magazine"
 msgstr "فصلنامه"
 
@@ -280,7 +280,7 @@ msgstr "عنوان نمایشی"
 msgid "Leave empty if you want use default title."
 msgstr "اگر می‌خواهید از عنوان پیش‌فرض استفاده شود، این فیلد را خالی رها کنید."
 
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:147
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:146
 msgid "Render Priority"
 msgstr "ترتیب نمایش"
 
@@ -288,8 +288,30 @@ msgstr "ترتیب نمایش"
 msgid "Medium for magazines"
 msgstr "رسانه فصلنامه‌ها"
 
-#: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:30
-#: src/Pmpr/Custom/Herfe/Setting.php:81
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:43
+msgid "Setting"
+msgstr "تنظیمات"
+
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:46
+#, php-format
+msgid ""
+"Hashure functionality cannot be start until you enter your credentials in the "
+"%s."
+msgstr ""
+"تا زمانی که اطلاعات کاربری خود را در %s وارد نکنید، عملکرد هاشور غیرفعال "
+"خواهد بود."
+
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:49
+#, php-format
+msgid ""
+"We are unable to connect to the hashure service, please check the user "
+"information you have entered in the %s."
+msgstr ""
+"قادر به ارتباط با سرویس هاشور نیستیم، لطفا اطلاعات کاربری که در%s  وارد "
+"کرده‌اید را بررسی کنید."
+
+#: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:37
+#: src/Pmpr/Custom/Herfe/Setting.php:82
 msgid "View in Hashure"
 msgstr "مشاهده در هاشور"
 
@@ -327,45 +349,50 @@ msgstr "هیچکدام"
 msgid "Hashure Product ID"
 msgstr "شناسه محصول در هاشور"
 
-#: src/Pmpr/Custom/Herfe/Product.php:79
+#: src/Pmpr/Custom/Herfe/Product.php:50
+msgid ""
+"To insert the Hashure product ID (and not, for example, the screen product)."
+msgstr "جهت درج شناسه محصول هاشور (و نه مثلا محصول اکرانی)"
+
+#: src/Pmpr/Custom/Herfe/Product.php:80
 msgid "Tag:"
 msgid_plural "Tags:"
 msgstr[0] "برچسب‌ها:"
 msgstr[1] "برچسب:"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:43
+#: src/Pmpr/Custom/Herfe/Setting.php:44
 msgid "Herfe Setting"
 msgstr "تنظیمات سفارشی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:53
+#: src/Pmpr/Custom/Herfe/Setting.php:54
 msgid "Hashure"
 msgstr "هاشور"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:55
+#: src/Pmpr/Custom/Herfe/Setting.php:56
 msgid "Hashure Configuration"
 msgstr "پیکربندی هاشور"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:58
+#: src/Pmpr/Custom/Herfe/Setting.php:59
 msgid "Authentication"
 msgstr "احراز هویت"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:62
+#: src/Pmpr/Custom/Herfe/Setting.php:63
 msgid "Username"
 msgstr "نام کاربری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:66
+#: src/Pmpr/Custom/Herfe/Setting.php:67
 msgid "Password"
 msgstr "گذرواژه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:71
+#: src/Pmpr/Custom/Herfe/Setting.php:72
 msgid "Hashure Products"
 msgstr "محصولات هاشوری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:75
+#: src/Pmpr/Custom/Herfe/Setting.php:76
 msgid "Message"
 msgstr "پیام"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:76
+#: src/Pmpr/Custom/Herfe/Setting.php:77
 msgid ""
 "This message show on top of hashure products single, for users that has not "
 "access to hashure videos."
@@ -373,82 +400,82 @@ msgstr ""
 "این پیام در بالای محصولات هاشوری، به کاربرانی که دسترسی لارم برای مشاهده "
 "ویدیو‌ها را ندارند، نمایش داده می‌شود."
 
-#: src/Pmpr/Custom/Herfe/Setting.php:80
+#: src/Pmpr/Custom/Herfe/Setting.php:81
 msgid "Button Text"
 msgstr "متن دکمه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:85
+#: src/Pmpr/Custom/Herfe/Setting.php:86
 msgid "Button Behavior"
 msgstr "رفتار دکمه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:86
+#: src/Pmpr/Custom/Herfe/Setting.php:87
 msgid "Open in Current Tab"
 msgstr "باز کردن در زبانه جاری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:87
+#: src/Pmpr/Custom/Herfe/Setting.php:88
 msgid "Open New Tab"
 msgstr "باز کردن در زبانه جدید"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:91
+#: src/Pmpr/Custom/Herfe/Setting.php:92
 msgid "Link to"
 msgstr "لینک به"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:92
+#: src/Pmpr/Custom/Herfe/Setting.php:93
 msgid "Play Movie"
 msgstr "پخش فیلم"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:93
+#: src/Pmpr/Custom/Herfe/Setting.php:94
 msgid "Movie Page"
 msgstr "صفحه فیلم"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:101
+#: src/Pmpr/Custom/Herfe/Setting.php:102
 msgid "Magazine Configuration"
 msgstr "پیکربندی فصلنامه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:108
+#: src/Pmpr/Custom/Herfe/Setting.php:109
 msgid "Avoid Duplicate Data Entry"
 msgstr "پیشگیری از داده تکراری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:109
+#: src/Pmpr/Custom/Herfe/Setting.php:110
 msgid ""
 "Check this item. if you want avoid duplicate issue number and article "
 "category assignment."
 msgstr ""
 "اگر می‌خواهید مانع ورود شماره و دسته‌بندی تکراری شوید، این گزینه را فعال کنید."
 
-#: src/Pmpr/Custom/Herfe/Setting.php:114
+#: src/Pmpr/Custom/Herfe/Setting.php:115
 msgid "Pagination"
 msgstr "صفحه‌بندی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:118
+#: src/Pmpr/Custom/Herfe/Setting.php:119
 msgid "Desktop Limit"
 msgstr "دسکتاپ"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:123
+#: src/Pmpr/Custom/Herfe/Setting.php:124
 msgid "Mobile Limit"
 msgstr "موبایل"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:128
+#: src/Pmpr/Custom/Herfe/Setting.php:129
 msgid "Products  Limit"
 msgstr "محصولات"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:134
+#: src/Pmpr/Custom/Herfe/Setting.php:135
 msgid "Messages"
 msgstr "پیام‌ها"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:138
+#: src/Pmpr/Custom/Herfe/Setting.php:139
 msgid "Empty Single"
 msgstr "پیام خالی سینگل"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:142
+#: src/Pmpr/Custom/Herfe/Setting.php:143
 msgid "Empty Category"
 msgstr "پیام دسته‌بندی خالی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:147
+#: src/Pmpr/Custom/Herfe/Setting.php:148
 msgid "Archive"
 msgstr "آرشیو"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:151
+#: src/Pmpr/Custom/Herfe/Setting.php:152
 msgid "Physical Medium"
 msgstr "رسانه چاپی"
 
@@ -473,6 +500,13 @@ msgstr "نام خانوادگی"
 #: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:144
 msgid "National Code"
 msgstr "کد ملی"
+
+#~ msgid ""
+#~ "Can not login to hashure, with your entered credentials, please enter "
+#~ "valid username & password in the %s."
+#~ msgstr ""
+#~ "نمی‌توانید برای هشور وارد شوید، با اطلاعات کاربری وارد شده خود، لطفاً نام "
+#~ "کاربری و رمز عبور معتبر را در %s وارد کنید."
 
 #~ msgid "Play"
 #~ msgstr "پخش"
