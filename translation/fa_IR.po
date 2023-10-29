@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2023-05-20 16:36+0330\n"
+"POT-Creation-Date: 2023-10-28 17:07+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
 "_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.4.1\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: node_modules\n"
 "X-Poedit-SearchPathExcluded-1: build\n"
@@ -25,7 +25,7 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-3: asset\n"
 "X-Poedit-SearchPathExcluded-4: build\n"
 
-#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:29
+#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:28
 msgid "Advertise"
 msgstr "تبلیغ"
 
@@ -174,99 +174,131 @@ msgstr "نوشته‌های انگلیسی"
 msgid "English Article"
 msgstr "نوشته انگلیسی"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:27
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:26
 msgid "Magazines"
 msgstr "فصلنامه‌ها"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:28
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:369
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:27
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:391
 #: src/Pmpr/Custom/Herfe/Setting.php:118
 msgid "Magazine"
 msgstr "فصلنامه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:116
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:118
 msgid "Description"
 msgstr "شرح"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:180
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:182
 msgid "List is empty."
 msgstr "لیست خالی است."
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:256
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:258
 #, php-format
 msgid "Issue number %s already used for %s, please use another number."
 msgstr ""
 "شماره %s در حال حاضر برای %s استفاده شده است، لطفا شماره دیگری را برگزینید."
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:369
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:381
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:391
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:403
 #, php-format
 msgid "There are currently no products in this %s"
 msgstr "در حال حاضر محصولی در این %s وجود ندارد"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:381
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:403
 #: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:26
 msgid "Article Category"
 msgstr "دسته‌بندی‌ مقاله"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:432
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:455
 #: src/Pmpr/Custom/Herfe/Page/AbstractVisualAuditory.php:28
 msgid "All"
 msgstr "همه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:445
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:469
 msgid "Buy a Printed Copy"
 msgstr "خرید نسخه چاپی"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:477
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:545
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:501
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:573
 msgid "Issue Number"
 msgstr "شماره"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:478
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:502
 #: src/Pmpr/Custom/Herfe/CTX/Medium.php:19
 msgid "Medium"
 msgstr "رسانه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:479
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:503
 msgid "Related Product"
 msgstr "محصول مرتبط"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:480
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:531
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:504
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:555
 msgid "Products"
 msgstr "محصولات"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:481
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:523
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:555
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:505
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:547
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:583
 #: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:25
 msgid "Article Categories"
 msgstr "دسته‌بندی‌های مقاله"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:514
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:538
 #: src/Pmpr/Custom/Herfe/CTX/Medium.php:18
 msgid "Mediums"
 msgstr "رسانه‌ها"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:541
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:569
 msgid "Magazine Metadata"
 msgstr "متادیتا‌های فصل‌نامه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:550
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:578
 #, php-format
 msgid "Physical Medium (%s)"
 msgstr "نسخه چاپی (%s)"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:550
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:560
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:578
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:588
 msgid "Product"
 msgstr "محصول"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:560
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:588
 #, php-format
 msgid "This Issue Articles (%s)"
 msgstr "مقالات این شماره (%s)"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:44
+#: src/Pmpr/Custom/Herfe/Page/VisualAuditory.php:22
+msgid "Visual & Auditory"
+msgstr "دیداری شنیداری"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:47
+msgid "Status"
+msgstr "وضعیت"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:49
+msgid "None"
+msgstr "هیچکدام"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:50
+#: src/Pmpr/Custom/Herfe/Page/Visual.php:23
+msgid "Visual"
+msgstr "دیداری"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:51
+#: src/Pmpr/Custom/Herfe/Page/Auditory.php:23
+msgid "Auditory"
+msgstr "شنیداری"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:57
+msgid "Hashure Product ID"
+msgstr "شناسه محصول در هاشور"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:58
+msgid ""
+"To insert the Hashure product ID (and not, for example, the screen product)."
+msgstr "جهت درج شناسه محصول هاشور (و نه مثلا محصول اکرانی)"
 
 #: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:27
 msgid "Article Category for products"
@@ -288,11 +320,15 @@ msgstr "ترتیب نمایش"
 msgid "Medium for magazines"
 msgstr "رسانه فصلنامه‌ها"
 
-#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:43
+#: src/Pmpr/Custom/Herfe/CTX/Tag.php:24
+msgid "Image"
+msgstr "تصویر"
+
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:34
 msgid "Setting"
 msgstr "تنظیمات"
 
-#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:46
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:37
 #, php-format
 msgid ""
 "Hashure functionality cannot be start until you enter your credentials in the "
@@ -301,7 +337,7 @@ msgstr ""
 "تا زمانی که اطلاعات کاربری خود را در %s وارد نکنید، عملکرد هاشور غیرفعال "
 "خواهد بود."
 
-#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:49
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:40
 #, php-format
 msgid ""
 "We are unable to connect to the hashure service, please check the user "
@@ -315,44 +351,13 @@ msgstr ""
 msgid "View in Hashure"
 msgstr "مشاهده در هاشور"
 
-#: src/Pmpr/Custom/Herfe/Herfe.php:26
+#: src/Pmpr/Custom/Herfe/Herfe.php:24
 msgid "Herfe Custom"
 msgstr "کد سفارشی حرفه هنرمند"
-
-#: src/Pmpr/Custom/Herfe/Page/Auditory.php:23
-#: src/Pmpr/Custom/Herfe/Product.php:55
-msgid "Auditory"
-msgstr "شنیداری"
 
 #: src/Pmpr/Custom/Herfe/Page/LatestMagazine.php:24
 msgid "Latest Magazine"
 msgstr "آخرین فصلنامه‌"
-
-#: src/Pmpr/Custom/Herfe/Page/Visual.php:23 src/Pmpr/Custom/Herfe/Product.php:54
-msgid "Visual"
-msgstr "دیداری"
-
-#: src/Pmpr/Custom/Herfe/Page/VisualAuditory.php:22
-#: src/Pmpr/Custom/Herfe/Product.php:48
-msgid "Visual & Auditory"
-msgstr "دیداری شنیداری"
-
-#: src/Pmpr/Custom/Herfe/Product.php:51
-msgid "Status"
-msgstr "وضعیت"
-
-#: src/Pmpr/Custom/Herfe/Product.php:53
-msgid "None"
-msgstr "هیچکدام"
-
-#: src/Pmpr/Custom/Herfe/Product.php:61
-msgid "Hashure Product ID"
-msgstr "شناسه محصول در هاشور"
-
-#: src/Pmpr/Custom/Herfe/Product.php:62
-msgid ""
-"To insert the Hashure product ID (and not, for example, the screen product)."
-msgstr "جهت درج شناسه محصول هاشور (و نه مثلا محصول اکرانی)"
 
 #: src/Pmpr/Custom/Herfe/Setting.php:46
 msgid "Herfe Setting"
@@ -783,9 +788,6 @@ msgstr "کد ملی"
 
 #~ msgid "User ID"
 #~ msgstr "شناسه کاربر"
-
-#~ msgid "Image"
-#~ msgstr "تصویر"
 
 #~ msgid "Licenses"
 #~ msgstr "مجوزها"
