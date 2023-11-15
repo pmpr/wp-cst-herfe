@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             65533af3a9139             |
+    |             6554a90d0ae27             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Herfe\CPT; use Pmpr\Common\Foundation\CPT; use Pmpr\Custom\Herfe\Interfaces\CommonInterface; abstract class Common extends CPT implements CommonInterface { public function mgoeqkosywwaoqyw() { parent::mgoeqkosywwaoqyw(); $this->oyeskqayoscwciem()->ckaeqgiaiqwsccke(51); } }
