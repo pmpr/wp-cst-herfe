@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6554a90d0ae27             |
+    |             655dfec0865cb             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Herfe\Interfaces; interface CommonInterface { const yyigwaqioecwemiw = "\x76\151\163\165\141\x6c"; const MEDIUM = "\x6d\x65\144\x69\165\x6d"; const gcwcqmwwgiqsaame = "\x61\x75\x64\151\x74\157\x72\171"; const wsuusqigsoomsyky = "\x6d\141\147\141\x7a\x69\x6e\x65"; const seyosiicaqsgmuwa = "\145\156\x67\x6c\x69\163\x68\137\141\162\x74\x69\143\x6c\145"; const uuseyckuwmiouskw = self::yyigwaqioecwemiw . "\55" . self::gcwcqmwwgiqsaame; const kaieokkoqukgmsea = "\x61\x72\x74\151\143\x6c\x65\137\x63\x61\164\145\x67\x6f\162\x79"; }
+ namespace Pmpr\Custom\Herfe\Interfaces; interface CommonInterface { const yyigwaqioecwemiw = "\166\x69\x73\165\x61\x6c"; const MEDIUM = "\155\x65\x64\x69\x75\x6d"; const gcwcqmwwgiqsaame = "\x61\165\144\151\164\x6f\162\171"; const wsuusqigsoomsyky = "\155\x61\x67\x61\x7a\x69\156\145"; const seyosiicaqsgmuwa = "\145\156\x67\x6c\x69\x73\150\x5f\141\x72\164\x69\x63\x6c\145"; const uuseyckuwmiouskw = self::yyigwaqioecwemiw . "\x2d" . self::gcwcqmwwgiqsaame; const kaieokkoqukgmsea = "\x61\162\164\151\143\x6c\x65\137\x63\141\x74\145\x67\x6f\162\171"; }
