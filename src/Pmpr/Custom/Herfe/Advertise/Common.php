@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             655dfec0865cb             |
+    |             6575eafa21b85             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Herfe\Advertise; use Pmpr\Custom\Herfe\Container; abstract class Common extends Container { const cqkewmmoacqamyce = "\x61\x64\166\145\x72\x74\x69\163\x65"; }
+ namespace Pmpr\Custom\Herfe\Advertise; use Pmpr\Custom\Herfe\Container; abstract class Common extends Container { public function iwiyggkewesgioys() { $kieokceicuuaiuso = $this->caokeucsksukesyo()->ayueggmoqeeukqmq()->ciugwooasaqcywas(self::kueeagiqseeaeogs, [], self::oyaoekcogwkcekcc); $ycuekasamuuasigw = null; if (!$kieokceicuuaiuso) { goto ayyweymyuuiauamo; } $ycuekasamuuasigw = array_pop($kieokceicuuaiuso); ayyweymyuuiauamo: return $ycuekasamuuasigw; } public function ucgqwmuigscaceuu() : bool { $ewgmommeawggyaek = $this->uwkmaywceaaaigwo()->issssuygyewuaswa(); return !$ewgmommeawggyaek->scmcyesmmikkucie(self::gewmeskawiqikkoc) && $ewgmommeawggyaek->scmcyesmmikkucie(self::kueeagiqseeaeogs); } }
