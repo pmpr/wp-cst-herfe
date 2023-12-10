@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             657612ed8adda             |
+    |             65761ed0bcd00             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Herfe\Page; use Pmpr\Common\Foundation\Page\Page; use Pmpr\Custom\Herfe\Interfaces\CommonInterface; abstract class Common extends Page implements CommonInterface { }
