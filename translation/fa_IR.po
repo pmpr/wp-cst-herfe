@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2023-12-10 23:56+0330\n"
+"POT-Creation-Date: 2023-12-18 10:47+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -25,13 +25,13 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-3: asset\n"
 "X-Poedit-SearchPathExcluded-4: build\n"
 
-#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:53
+#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:38
 msgid "Advertise"
 msgstr "تبلیغ"
 
-#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:132
+#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:160
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:22
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:121
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:122
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:98
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:136
 msgid "Advertiser"
@@ -45,23 +45,23 @@ msgstr "تبلیغ‌ دهندگان"
 msgid "Advertiser post type"
 msgstr "نوع نوشته تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:93
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:116
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:90
 msgid "Advertiser Metadata"
 msgstr "متادیتا‌های تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:97
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:101
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:120
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:102
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:94
 #: src/Pmpr/Custom/Herfe/Setting.php:123
 msgid "General"
 msgstr "عمومی"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:101
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:124
 msgid "Users"
 msgstr "کاربران"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:127
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:150
 #, php-format
 msgid ""
 "User %s is already connected to another advertiser named %s. can not add to "
@@ -70,83 +70,83 @@ msgstr ""
 "کاربر %s پیش از این به تبلیغ‌کننده دیگری به نام %s متصل شده است. نمی‌توان به "
 "تبلیغ‌کننده دیگری متصل کرد."
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:140
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:153
 #, php-format
 msgid "More Information About %s"
 msgstr "اطلاعات بیشتر درباره %s"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:141
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:154
 #, php-format
 msgid "%s's Social Accounts"
 msgstr "شبکه‌های اجتماعی %s"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:142
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:155
 #, php-format
 msgid "%s's Information"
 msgstr "اطلاعات %s"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:157
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:170
 msgid "Items"
 msgstr "آیتم‌ها‌"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:160
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:173
 msgid "Title"
 msgstr "عنوان"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:164
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:177
 msgid "Icon"
 msgstr "آیکون"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:178
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:191
 msgid "Contact Information"
 msgstr "اطلاعات تماس"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:183
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:196
 msgid "Type"
 msgstr "نوع"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:185
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:198
 msgid "Link"
 msgstr "پیوند"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:186
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:199
 #: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:147
 msgid "Phone"
 msgstr "تلفن"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:187
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:200
 msgid "Email"
 msgstr "ایمیل"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:188
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:201
 msgid "Hours"
 msgstr "ساعات کاری"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:189
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:202
 msgid "Location"
 msgstr "مکان"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:193
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:206
 msgid "Value"
 msgstr "مقدار"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:207
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:220
 msgid "Social Accounts"
 msgstr "شبکه‌های اجتماعی"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:213
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:226
 msgid "Url"
 msgstr "پیوند"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:228
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:241
 msgid "Logo"
 msgstr "لوگو"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:232
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:245
 msgid "Address"
 msgstr "آدرس"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:235
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:248
 msgid "Map Location Url"
 msgstr "لینک موقعیت مکانی"
 
@@ -162,12 +162,12 @@ msgstr "رویداد"
 msgid "Event post type"
 msgstr "نوع نوشته رویداد"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:97
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:98
 msgid "Event Metadata"
 msgstr "متادیتا‌های رویداد"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:106
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:122
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:107
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:123
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:23
 msgid "Gallery"
 msgstr "گالری"
@@ -360,7 +360,7 @@ msgstr ""
 "قادر به ارتباط با سرویس هاشور نیستیم، لطفا اطلاعات کاربری که در%s  وارد "
 "کرده‌اید را بررسی کنید."
 
-#: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:61
+#: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:60
 #: src/Pmpr/Custom/Herfe/Setting.php:100
 msgid "View in Hashure"
 msgstr "مشاهده در هاشور"
