@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2023-12-18 10:47+0330\n"
+"POT-Creation-Date: 2024-01-10 13:48+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
 "_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
-"X-Generator: Poedit 3.4.1\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: node_modules\n"
 "X-Poedit-SearchPathExcluded-1: build\n"
@@ -53,7 +53,7 @@ msgstr "متادیتا‌های تبلیغ دهنده"
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:120
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:102
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:94
-#: src/Pmpr/Custom/Herfe/Setting.php:123
+#: src/Pmpr/Custom/Herfe/Setting.php:126
 msgid "General"
 msgstr "عمومی"
 
@@ -194,7 +194,7 @@ msgstr "فصلنامه‌ها"
 
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:27
 #: src/Pmpr/Custom/Herfe/CPT/Magazine.php:391
-#: src/Pmpr/Custom/Herfe/Setting.php:118
+#: src/Pmpr/Custom/Herfe/Setting.php:121
 msgid "Magazine"
 msgstr "فصلنامه"
 
@@ -361,11 +361,11 @@ msgstr ""
 "کرده‌اید را بررسی کنید."
 
 #: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:60
-#: src/Pmpr/Custom/Herfe/Setting.php:100
+#: src/Pmpr/Custom/Herfe/Setting.php:103
 msgid "View in Hashure"
 msgstr "مشاهده در هاشور"
 
-#: src/Pmpr/Custom/Herfe/Herfe.php:24
+#: src/Pmpr/Custom/Herfe/Herfe.php:25
 msgid "Herfe Custom"
 msgstr "کد سفارشی حرفه هنرمند"
 
@@ -373,27 +373,27 @@ msgstr "کد سفارشی حرفه هنرمند"
 msgid "Latest Magazine"
 msgstr "آخرین فصلنامه‌"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:46
+#: src/Pmpr/Custom/Herfe/Setting.php:49
 msgid "Herfe Setting"
 msgstr "تنظیمات سفارشی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:56
+#: src/Pmpr/Custom/Herfe/Setting.php:59
 msgid "Subscription"
 msgstr "اشتراک"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:58
+#: src/Pmpr/Custom/Herfe/Setting.php:61
 msgid "Subscription Configuration"
 msgstr "پیکربندی اشتراک"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:61
+#: src/Pmpr/Custom/Herfe/Setting.php:64
 msgid "Access"
 msgstr "دسترسی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:65
+#: src/Pmpr/Custom/Herfe/Setting.php:68
 msgid "Blog First Visit"
 msgstr "اولین بازدید از وبلاگ"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:66
+#: src/Pmpr/Custom/Herfe/Setting.php:69
 msgid ""
 "By enable this option, Users and visitors can access to blog posts in first "
 "visit."
@@ -401,35 +401,35 @@ msgstr ""
 "با فعال کردن این گزینه، کاربران و بازدیدکنندگان می توانند در اولین بازدید به "
 "نوشته‌های وب‌نامه دسترسی داشته باشند."
 
-#: src/Pmpr/Custom/Herfe/Setting.php:72
+#: src/Pmpr/Custom/Herfe/Setting.php:75
 msgid "Hashure"
 msgstr "هاشور"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:74
+#: src/Pmpr/Custom/Herfe/Setting.php:77
 msgid "Hashure Configuration"
 msgstr "پیکربندی هاشور"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:77
+#: src/Pmpr/Custom/Herfe/Setting.php:80
 msgid "Authentication"
 msgstr "احراز هویت"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:81
+#: src/Pmpr/Custom/Herfe/Setting.php:84
 msgid "Username"
 msgstr "نام کاربری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:85
+#: src/Pmpr/Custom/Herfe/Setting.php:88
 msgid "Password"
 msgstr "گذرواژه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:90
+#: src/Pmpr/Custom/Herfe/Setting.php:93
 msgid "Hashure Products"
 msgstr "محصولات هاشوری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:94
+#: src/Pmpr/Custom/Herfe/Setting.php:97
 msgid "Message"
 msgstr "پیام"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:95
+#: src/Pmpr/Custom/Herfe/Setting.php:98
 msgid ""
 "This message show on top of hashure products single, for users that has not "
 "access to hashure videos."
@@ -437,84 +437,243 @@ msgstr ""
 "این پیام در بالای محصولات هاشوری، به کاربرانی که دسترسی لارم برای مشاهده "
 "ویدیو‌ها را ندارند، نمایش داده می‌شود."
 
-#: src/Pmpr/Custom/Herfe/Setting.php:99
+#: src/Pmpr/Custom/Herfe/Setting.php:102
 msgid "Button Text"
 msgstr "متن دکمه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:104
+#: src/Pmpr/Custom/Herfe/Setting.php:107
 msgid "Button Behavior"
 msgstr "رفتار دکمه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:105
+#: src/Pmpr/Custom/Herfe/Setting.php:108
 msgid "Open in Current Tab"
 msgstr "باز کردن در زبانه جاری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:106
+#: src/Pmpr/Custom/Herfe/Setting.php:109
 msgid "Open New Tab"
 msgstr "باز کردن در زبانه جدید"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:110
+#: src/Pmpr/Custom/Herfe/Setting.php:113
 msgid "Link to"
 msgstr "لینک به"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:111
+#: src/Pmpr/Custom/Herfe/Setting.php:114
 msgid "Play Movie"
 msgstr "پخش فیلم"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:112
+#: src/Pmpr/Custom/Herfe/Setting.php:115
 msgid "Movie Page"
 msgstr "صفحه فیلم"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:120
+#: src/Pmpr/Custom/Herfe/Setting.php:123
 msgid "Magazine Configuration"
 msgstr "پیکربندی فصلنامه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:127
+#: src/Pmpr/Custom/Herfe/Setting.php:130
 msgid "Avoid Duplicate Data Entry"
 msgstr "پیشگیری از داده تکراری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:128
+#: src/Pmpr/Custom/Herfe/Setting.php:131
 msgid ""
 "Check this item. if you want avoid duplicate issue number and article "
 "category assignment."
 msgstr ""
 "اگر می‌خواهید مانع ورود شماره و دسته‌بندی تکراری شوید، این گزینه را فعال کنید."
 
-#: src/Pmpr/Custom/Herfe/Setting.php:133
+#: src/Pmpr/Custom/Herfe/Setting.php:136
 msgid "Pagination"
 msgstr "صفحه‌بندی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:137
+#: src/Pmpr/Custom/Herfe/Setting.php:140
 msgid "Sidebar - Desktop Limit"
 msgstr "آیتم‌های سایدبار - دسکتاپ"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:142
+#: src/Pmpr/Custom/Herfe/Setting.php:145
 msgid "Sidebar - Mobile Limit"
 msgstr "آیتم‌های سایدبار - موبایل"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:147
+#: src/Pmpr/Custom/Herfe/Setting.php:150
 msgid "Products  Limit"
 msgstr "محصولات"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:153
+#: src/Pmpr/Custom/Herfe/Setting.php:156
 msgid "Messages"
 msgstr "پیام‌ها"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:157
+#: src/Pmpr/Custom/Herfe/Setting.php:160
 msgid "Empty Single"
 msgstr "پیام خالی سینگل"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:161
+#: src/Pmpr/Custom/Herfe/Setting.php:164
 msgid "Empty Category"
 msgstr "پیام دسته‌بندی خالی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:166
+#: src/Pmpr/Custom/Herfe/Setting.php:169
 msgid "Archive"
 msgstr "آرشیو"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:170
+#: src/Pmpr/Custom/Herfe/Setting.php:173
 msgid "Physical Medium"
 msgstr "رسانه چاپی"
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:53
+msgid "Your email verified successfully."
+msgstr "ایمیل شما با موفقیت تایید شد."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:56
+msgid "Something wrong on verification email, please try again."
+msgstr "مشکلی در فرآیند تایید ایمیل به وجود آمده است، لطفا دوباره امتحان کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:60
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:156
+msgid "Your entered code is not correct."
+msgstr "کد وارد شده صحیح نیست."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:66
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:162
+#, php-format
+msgid "Code entered incorrect more than 5 times, %s."
+msgstr "کد بیش از 5 بار نادرست وارد شده است، %s."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:70
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:166
+#: src/Pmpr/Custom/Herfe/Verification/Common.php:163
+#, php-format
+msgid "Verification code expired, %s."
+msgstr "کد تأیید منقضی شده است، %s."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:78
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:174
+msgid "Verification Code"
+msgstr "کد تایید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:82
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:112
+msgid "Request is not from a logging user."
+msgstr "درخواست از سمت کاربر بدون سشن است."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:103
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:199
+msgid "New verification code send to your email."
+msgstr "کد تأیید جدیدی برای ایمیل شما ارسال شد."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:108
+msgid "You dont need email verification, please refresh the page."
+msgstr "شما نیازی به تایید ایمیل ندارید، لطفا صفحه را رفرش کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:178
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:208
+msgid ""
+"Your verification code is expired, use your email to reset your password."
+msgstr ""
+"کد تأیید شما منقضی شده است، از ایمیل خود برای بازنشانی رمز عبور استفاده کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:204
+msgid "Something wrong, please refresh the page."
+msgstr "مشکلی وجود دارد، لطفاً صفحه را رفرش کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Common.php:169
+#, php-format
+msgid "The validity period of the code is until %s, Tehran time"
+msgstr "مدت اعتبار کد تا %s  به وقت تهران"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:32
+msgid "Verify Your Email Address"
+msgstr "آدرس ایمیل خود را تأیید کنید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:34
+#, php-format
+msgid "Verify Your Email Address on %s"
+msgstr "آدرس ایمیل خود را در %s تأیید کنید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:47
+msgid "Verify Reset Password"
+msgstr "تایید بازنشانی رمز عبور"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:49
+#, php-format
+msgid "Verify Reset Password on %s"
+msgstr "تأیید بازنشانی رمز عبور در %s"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:114
+msgid "Email Verification"
+msgstr "تایید ایمیل"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:116
+#, php-format
+msgid "Enter below code on %s."
+msgstr "کد زیر را در سایت %s وارد کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:119
+msgid ""
+"Also, instead of using the above code, you can just click on the link below."
+msgstr ""
+"همچنین، به جای استفاده از کد فوق میتوانید تنها بر  روی لینک زیر کلیک کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:124
+msgid "Verify Email Now"
+msgstr "تایید ایمیل"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:145
+#, php-format
+msgid "You can use below code on %s to reset your password."
+msgstr "برای بازنشانی رمز عبور خود می توانید از کد زیر در %s استفاده کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:53
+msgid "Sing up email verification"
+msgstr "تایید ایمیل ثبت‌نام"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:83
+msgid "Password reset verification"
+msgstr "تأیید بازنشانی رمز عبور"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:97
+msgid "Confirm access to the email address"
+msgstr "تایید دسترسی به آدرس ایمیل"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:111
+#, php-format
+msgid "%s-digits code"
+msgstr "کد %s رقمی"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:112
+#, php-format
+msgid "Enter %s-digits code"
+msgstr "کد %s رقمی را وارد کنید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:117
+msgid "Verify Code"
+msgstr "تأیید کد"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:126
+#, php-format
+msgid "A %s-digit code was sent to the email address below."
+msgstr "یک کد %s رقمی به آدرس ایمیل زیر ارسال شد."
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:129
+msgid "Didn't receive an email?"
+msgstr "ایمیلی دریافت نکردید؟"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:166
+msgid "Something is wrong, please refresh page."
+msgstr "مشکلی به وجود آمده است، لطفا صفحه را رفرش کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:167
+msgid "Entered code is not valid."
+msgstr "کد وارد شده معتبر نیست."
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:184
+msgid "Send new code"
+msgstr "ارسال کد جدید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Verification.php:35
+#: src/Pmpr/Custom/Herfe/Verification/Verification.php:59
+msgid "Your account verified successfully."
+msgstr "حساب شما با موفقیت تأیید شد."
+
+#: src/Pmpr/Custom/Herfe/Verification/Verification.php:63
+msgid "Your account already verified."
+msgstr "حساب شما قبلاً تأیید شده است."
 
 #: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:74
 #, php-format
@@ -537,6 +696,25 @@ msgstr "نام خانوادگی"
 #: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:154
 msgid "National Code"
 msgstr "کد ملی"
+
+#~ msgid "It seems you are try to verify your email on %s."
+#~ msgstr "به نظر می رسد سعی می کنید ایمیل خود را در %s تأیید کنید."
+
+#~ msgid "Here is the verification code, use it to verify your email."
+#~ msgstr "با استفاده از کد زیر ایمیل خود را تایید کنید."
+
+#~ msgid "You can even verify your email by click the link below."
+#~ msgstr "شما می‌توانید با کلیک روی لینک زیر ایمیل خود را تایید کنید."
+
+#~ msgid "Try Again"
+#~ msgstr "تلاش مجدد"
+
+#~ msgid ""
+#~ "We sent verification code to %s. To verify your email address, please "
+#~ "check your inbox and enter the code below."
+#~ msgstr ""
+#~ "ما کد تأیید را به %s ارسال کردیم. برای تأیید آدرس ایمیل، لطفا ایمیل خود را "
+#~ "بررسی کرده و کد ارسال شده را در فیلد زیر وارد کنید."
 
 #~ msgid "Tag:"
 #~ msgid_plural "Tags:"
