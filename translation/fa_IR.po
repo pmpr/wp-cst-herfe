@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2024-01-10 13:48+0330\n"
+"POT-Creation-Date: 2024-01-14 11:54+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -572,6 +572,15 @@ msgstr ""
 msgid "Something wrong, please refresh the page."
 msgstr "مشکلی وجود دارد، لطفاً صفحه را رفرش کنید."
 
+#: src/Pmpr/Custom/Herfe/Verification/Checkout.php:33
+#, php-format
+msgid "Your account not verified, please %s first."
+msgstr "حساب کاربری شما تایید نشده است، لطفا %s."
+
+#: src/Pmpr/Custom/Herfe/Verification/Checkout.php:35
+msgid "verify your account"
+msgstr "حساب کاربری خود را تایید کنید"
+
 #: src/Pmpr/Custom/Herfe/Verification/Common.php:169
 #, php-format
 msgid "The validity period of the code is until %s, Tehran time"
@@ -654,15 +663,15 @@ msgstr "یک کد %s رقمی به آدرس ایمیل زیر ارسال شد."
 msgid "Didn't receive an email?"
 msgstr "ایمیلی دریافت نکردید؟"
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:166
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:172
 msgid "Something is wrong, please refresh page."
 msgstr "مشکلی به وجود آمده است، لطفا صفحه را رفرش کنید."
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:167
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:173
 msgid "Entered code is not valid."
 msgstr "کد وارد شده معتبر نیست."
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:184
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:187
 msgid "Send new code"
 msgstr "ارسال کد جدید"
 
