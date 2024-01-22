@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2024-01-14 11:54+0330\n"
+"POT-Creation-Date: 2024-01-15 15:36+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -575,7 +575,7 @@ msgstr "مشکلی وجود دارد، لطفاً صفحه را رفرش کنی�
 #: src/Pmpr/Custom/Herfe/Verification/Checkout.php:33
 #, php-format
 msgid "Your account not verified, please %s first."
-msgstr "حساب کاربری شما تایید نشده است، لطفا %s."
+msgstr "حساب کاربری شما تایید نشده است، لطفا ابتدا %s."
 
 #: src/Pmpr/Custom/Herfe/Verification/Checkout.php:35
 msgid "verify your account"
