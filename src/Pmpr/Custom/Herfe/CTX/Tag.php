@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             65bfd95e54d08             |
+    |             65bfe0c6183e8             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Herfe\CTX; use Pmpr\Custom\Herfe\Container; class Tag extends Container { public function wigskegsqequoeks() { $this->qcsmikeggeemccuu("\x69\156\x69\164", [$this, "\x65\x71\x65\143\143\x77\143\x6f\165\x69\151\153\x65\151\171\x61"]); } public function eqeccwcouiikeiya() { $gosmywauqawmcyga = $this->caokeucsksukesyo()->wmkogisswkckmeua(); $gosmywauqawmcyga->scyscgskcwukckyy("\164\141\x67\x5f\x69\155\x61\x67\145")->mkksewyosgeumwsa($gosmywauqawmcyga->quaegkgkucwyeiqg("\160\157\x73\164\137\x74\141\x67\137\164\150\x75\155\x62\x6e\141\151\x6c")->gswweykyogmsyawy(__("\x49\155\x61\x67\x65", PR__CST__HERFE))->ycueqsmmommygueu())->auoaeeuwaqswggqg(self::ocsomysosuqaimuc)->register(); } }
+ namespace Pmpr\Custom\Herfe\CTX; use Pmpr\Custom\Herfe\Container; class Tag extends Container { public function wigskegsqequoeks() { $this->qcsmikeggeemccuu("\x69\156\151\164", [$this, "\145\x71\145\143\143\167\143\157\165\x69\151\153\x65\x69\171\x61"]); } public function eqeccwcouiikeiya() { $gosmywauqawmcyga = $this->caokeucsksukesyo()->wmkogisswkckmeua(); $gosmywauqawmcyga->scyscgskcwukckyy("\x74\141\147\x5f\x69\x6d\x61\147\x65")->mkksewyosgeumwsa($gosmywauqawmcyga->quaegkgkucwyeiqg("\x70\x6f\163\164\137\164\x61\147\x5f\x74\x68\165\155\x62\156\141\x69\154")->gswweykyogmsyawy(__("\111\x6d\x61\147\145", PR__CST__HERFE))->ycueqsmmommygueu())->auoaeeuwaqswggqg(self::ocsomysosuqaimuc)->register(); } }

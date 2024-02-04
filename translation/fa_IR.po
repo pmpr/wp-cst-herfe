@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2024-01-15 15:36+0330\n"
+"POT-Creation-Date: 2024-02-04 22:16+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -111,8 +111,9 @@ msgstr "پیوند"
 
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:199
 #: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:147
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:104
 msgid "Phone"
-msgstr "تلفن"
+msgstr "شماره تماس"
 
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:200
 msgid "Email"
@@ -143,6 +144,7 @@ msgid "Logo"
 msgstr "لوگو"
 
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:245
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:105
 msgid "Address"
 msgstr "آدرس"
 
@@ -705,6 +707,14 @@ msgstr "نام خانوادگی"
 #: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:154
 msgid "National Code"
 msgstr "کد ملی"
+
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:106
+msgid "Postcode"
+msgstr "کد پستی"
+
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:107
+msgid "Customer Note"
+msgstr "توضیحات تکمیلی"
 
 #~ msgid "It seems you are try to verify your email on %s."
 #~ msgstr "به نظر می رسد سعی می کنید ایمیل خود را در %s تأیید کنید."
