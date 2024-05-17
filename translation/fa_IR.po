@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2024-02-06 15:50+0330\n"
+"POT-Creation-Date: 2024-05-17 04:01+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
 "_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.3\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: node_modules\n"
 "X-Poedit-SearchPathExcluded-1: build\n"
@@ -30,38 +30,38 @@ msgid "Advertise"
 msgstr "تبلیغ"
 
 #: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:160
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:22
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:21
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:122
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:98
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:136
 msgid "Advertiser"
 msgstr "تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:21
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:20
 msgid "Advertisers"
 msgstr "تبلیغ‌ دهندگان"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:23
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:22
 msgid "Advertiser post type"
 msgstr "نوع نوشته تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:116
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:115
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:90
 msgid "Advertiser Metadata"
 msgstr "متادیتا‌های تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:120
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:119
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:102
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:94
 #: src/Pmpr/Custom/Herfe/Setting.php:126
 msgid "General"
 msgstr "عمومی"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:124
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:123
 msgid "Users"
 msgstr "کاربران"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:150
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:149
 #, php-format
 msgid ""
 "User %s is already connected to another advertiser named %s. can not add to "
@@ -340,11 +340,20 @@ msgstr "رسانه فصلنامه‌ها"
 msgid "Image"
 msgstr "تصویر"
 
-#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:34
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:41
+#: src/Pmpr/Custom/Herfe/Setting.php:103
+msgid "View in Hashure"
+msgstr "مشاهده در هاشور"
+
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:55
+msgid "No response was received from Hashur, please try again."
+msgstr "پاسخی از هاشور دریافت نشد، لطفاً دوباره تلاش کنید."
+
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:35
 msgid "Setting"
 msgstr "تنظیمات"
 
-#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:37
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:38
 #, php-format
 msgid ""
 "Hashure functionality cannot be start until you enter your credentials in the "
@@ -353,7 +362,7 @@ msgstr ""
 "تا زمانی که اطلاعات کاربری خود را در %s وارد نکنید، عملکرد هاشور غیرفعال "
 "خواهد بود."
 
-#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:40
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:41
 #, php-format
 msgid ""
 "We are unable to connect to the hashure service, please check the user "
@@ -362,10 +371,14 @@ msgstr ""
 "قادر به ارتباط با سرویس هاشور نیستیم، لطفا اطلاعات کاربری که در%s  وارد "
 "کرده‌اید را بررسی کنید."
 
-#: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:60
-#: src/Pmpr/Custom/Herfe/Setting.php:103
-msgid "View in Hashure"
-msgstr "مشاهده در هاشور"
+#: src/Pmpr/Custom/Herfe/Hashure/Product.php:31
+#: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:85
+msgid "Connecting to hashure..."
+msgstr "در حال اتصال به هاشور..."
+
+#: src/Pmpr/Custom/Herfe/Hashure/Product.php:32
+msgid "Try Again"
+msgstr "تلاش مجدد"
 
 #: src/Pmpr/Custom/Herfe/Herfe.php:25
 msgid "Herfe Custom"
@@ -716,6 +729,14 @@ msgstr "کد پستی"
 msgid "Customer Note"
 msgstr "توضیحات تکمیلی"
 
+#~ msgid "Failed Connecting to Hashure Message"
+#~ msgstr "پیام عدم اتصال به هاشور"
+
+#~ msgid "This message show to users, when when can not connect to hashure."
+#~ msgstr ""
+#~ "این پیام زمانی که اتصال به هاشور با مشکل مواجه می‌شود، به کاربران نمایش "
+#~ "داده خواهد شد."
+
 #~ msgid "It seems you are try to verify your email on %s."
 #~ msgstr "به نظر می رسد سعی می کنید ایمیل خود را در %s تأیید کنید."
 
@@ -724,9 +745,6 @@ msgstr "توضیحات تکمیلی"
 
 #~ msgid "You can even verify your email by click the link below."
 #~ msgstr "شما می‌توانید با کلیک روی لینک زیر ایمیل خود را تایید کنید."
-
-#~ msgid "Try Again"
-#~ msgstr "تلاش مجدد"
 
 #~ msgid ""
 #~ "We sent verification code to %s. To verify your email address, please "
