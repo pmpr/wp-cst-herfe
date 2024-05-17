@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2024-05-17 04:01+0330\n"
+"POT-Creation-Date: 2024-05-17 04:55+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -340,14 +340,18 @@ msgstr "رسانه فصلنامه‌ها"
 msgid "Image"
 msgstr "تصویر"
 
-#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:41
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:45
 #: src/Pmpr/Custom/Herfe/Setting.php:103
 msgid "View in Hashure"
 msgstr "مشاهده در هاشور"
 
-#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:55
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:59
 msgid "No response was received from Hashur, please try again."
 msgstr "پاسخی از هاشور دریافت نشد، لطفاً دوباره تلاش کنید."
+
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:63
+msgid "It looks like your subscription has expired."
+msgstr "به نظر می‌رسید اشتراک شما پایان یافته است."
 
 #: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:35
 msgid "Setting"
