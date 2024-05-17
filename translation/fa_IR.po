@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Pmpr\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2024-05-17 04:55+0330\n"
+"POT-Creation-Date: 2024-05-17 05:31+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -351,7 +351,7 @@ msgstr "پاسخی از هاشور دریافت نشد، لطفاً دوباره
 
 #: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:63
 msgid "It looks like your subscription has expired."
-msgstr "به نظر می‌رسید اشتراک شما پایان یافته است."
+msgstr "ش"
 
 #: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:35
 msgid "Setting"
