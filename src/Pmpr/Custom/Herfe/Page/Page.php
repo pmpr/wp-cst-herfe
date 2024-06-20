@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6668a92f25ffc             |
+    |             6673f42c45f3d             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Herfe\Page; use Pmpr\Custom\Herfe\Container; class Page extends Container { public function kgquecmsgcouyaya() { $this->aqaqisyssqeomwom("\151\156\151\x74\137\x64\145\166\x65\154\x6f\160\x5f\160\141\147\145", "\x5f\137\162\145\x74\165\162\x6e\x5f\164\x72\165\x65"); } public function mameiwsayuyquoeq() { Visual::symcgieuakksimmu(); Auditory::symcgieuakksimmu(); VisualAuditory::symcgieuakksimmu(); LatestMagazine::symcgieuakksimmu(); } }
+ namespace Pmpr\Custom\Herfe\Page; use Pmpr\Custom\Herfe\Container; class Page extends Container { public function kgquecmsgcouyaya() { $this->aqaqisyssqeomwom("\x69\x6e\151\164\137\x64\x65\166\145\154\x6f\160\137\160\x61\147\x65", "\137\x5f\x72\145\164\x75\x72\156\137\164\x72\x75\x65"); } public function mameiwsayuyquoeq() { Visual::symcgieuakksimmu(); Auditory::symcgieuakksimmu(); VisualAuditory::symcgieuakksimmu(); LatestMagazine::symcgieuakksimmu(); } }
