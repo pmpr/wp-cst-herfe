@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Pmpr Custom Pmpr\n"
+"Project-Id-Version: Pmpr Custom Herfe\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2024-05-17 05:31+0330\n"
+"POT-Creation-Date: 2024-07-28 21:27+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -110,7 +110,8 @@ msgid "Link"
 msgstr "پیوند"
 
 #: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:199
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:147
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:31
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:174
 #: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:104
 msgid "Phone"
 msgstr "شماره تماس"
@@ -351,7 +352,7 @@ msgstr "پاسخی از هاشور دریافت نشد، لطفاً دوباره
 
 #: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:63
 msgid "It looks like your subscription has expired."
-msgstr "ش"
+msgstr "به نظر می‌رسد اشتراک شما به پایان رسیده است."
 
 #: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:35
 msgid "Setting"
@@ -703,27 +704,19 @@ msgstr "حساب شما با موفقیت تأیید شد."
 msgid "Your account already verified."
 msgstr "حساب شما قبلاً تأیید شده است."
 
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:74
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:100
 #, php-format
 msgid "Field %s is required!"
 msgstr "فلید %s ضروری است!"
 
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:85
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:111
 #, php-format
 msgid "Please enter at least %s characters for %s."
 msgstr "لطفا حداقل %s کاراکتر برای فیلد %s وارد کنید."
 
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:133
-msgid "Firstname"
-msgstr "نام"
-
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:140
-msgid "Lastname"
-msgstr "نام خانوادگی"
-
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:154
-msgid "National Code"
-msgstr "کد ملی"
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:117
+msgid "Please enter a valid phone number."
+msgstr "لطفا یک شماره تلفن معتبر وارد کنید."
 
 #: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:106
 msgid "Postcode"
@@ -732,6 +725,15 @@ msgstr "کد پستی"
 #: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:107
 msgid "Customer Note"
 msgstr "توضیحات تکمیلی"
+
+#~ msgid "Firstname"
+#~ msgstr "نام"
+
+#~ msgid "Lastname"
+#~ msgstr "نام خانوادگی"
+
+#~ msgid "National Code"
+#~ msgstr "کد ملی"
 
 #~ msgid "Failed Connecting to Hashure Message"
 #~ msgstr "پیام عدم اتصال به هاشور"
