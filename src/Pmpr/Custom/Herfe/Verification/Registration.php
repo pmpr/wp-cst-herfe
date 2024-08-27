@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66cb5f0256adc             |
+    |             66ce115ac0a49             |
     |_______________________________________|
 */
- namespace Pmpr\Custom\Herfe\Verification; class Registration extends Common { public function wigskegsqequoeks() { $this->qcsmikeggeemccuu("\160\141\163\x73\167\x6f\x72\x64\137\162\145\x73\145\164", [$this, "\141\x6f\151\157\x77\x67\155\x69\167\165\x71\x6b\x69\163\x75\161"], 10, 2); } public function aoiowgmiwuqkisuq($mkucggyaiaukqoce) { $this->kwsaiaucmouiaaya($mkucggyaiaukqoce); } }
+ namespace Pmpr\Custom\Herfe\Verification; class Registration extends Common { public function wigskegsqequoeks() { $this->qcsmikeggeemccuu("\x70\x61\163\163\x77\x6f\162\144\x5f\162\x65\163\x65\164", [$this, "\141\157\151\x6f\167\x67\155\x69\167\x75\x71\153\x69\x73\x75\161"], 10, 2); } public function aoiowgmiwuqkisuq($mkucggyaiaukqoce) { $this->kwsaiaucmouiaaya($mkucggyaiaukqoce); } }
